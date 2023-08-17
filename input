@@ -1,0 +1,6 @@
+<block>
+  int  = 2
+
+<other_block>
+  bool  = 0
+  real4 = -2.0
